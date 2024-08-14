@@ -51,3 +51,24 @@ Decision Trees: Used for both classification and regression problems.
 Support Vector Machines (SVM): Used for classification problems.
 
 Supervised learning is widely used in various applications, such as image recognition, speech recognition, and medical diagnosis.
+
+### What exactly is Linear Regression?
+
+Linear regression is a statistical method used to model the relationship between a dependent variable and one or more independent variables by fitting a linear equation to observed data. Here are some key points about linear regression:
+
+#### Simple Linear Regression 
+
+This involves one independent variable and one dependent variable. The relationship is modeled by a straight line, represented by the equation:
+
+y=mx+c
+
+where ( y ) is the dependent variable, ( x ) is the independent variable, ( m ) is the slope of the line, and ( c ) is the y-intercept.
+
+#### Multiple Linear Regression 
+
+This involves two or more independent variables. The equation extends to:
+
+y = b0 ​+ b1 ​x 1 ​+ b2 ​x 2​+ … +bn​xn​
+
+where ( y ) is the dependent variable, ( x_1, x_2, \ldots, x_n ) are the independent variables, and ( b_0, b_1, b_2, \ldots, b_n ) are the coefficients.
+
