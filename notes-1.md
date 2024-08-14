@@ -72,6 +72,7 @@ y = b0 ​+ b1 ​x 1 ​+ b2 ​x 2​+ … +bn​xn​
 
 where ( y ) is the dependent variable, ( x_1, x_2, \ldots, x_n ) are the independent variables, and ( b_0, b_1, b_2, \ldots, b_n ) are the coefficients.
 
+<<<<<<< HEAD
 ## Multiple Linear Regression Example Scenario
 
 Imagine you’re a public health researcher interested in understanding the factors that influence heart disease rates in different towns. You collect data from 500 towns, including:
@@ -135,3 +136,5 @@ This term is often used to describe relationships or models that assume a linear
 ### Graph: 
 
 In this context, a graph typically refers to a visual representation of data. For linear regression, this would be a scatter plot of the data points with the regression line plotted to show the relationship between the variables1
+=======
+>>>>>>> 0728d0dd99ca6ce507a256174199b0c8de3dd760
